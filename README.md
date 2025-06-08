@@ -38,9 +38,9 @@ Visualizations confirm high alignment between predicted and actual values, espec
 -- Power usage alert systems for anomaly detection
 
 -->Future Scope
--- Incorporate external data: weather, occupancy, appliance-level usage
--- Apply deep learning models like LSTM or GRU for longer-term forecasting
--- Develop real-time dashboards or APIs for smart energy applications
+-- Incorporate external data: weather, occupancy, appliance-level usage.
+-- Apply deep learning models like LSTM or GRU for longer-term forecasting.
+-- Develop real-time dashboards or APIs for smart energy applications.
 
 
 
