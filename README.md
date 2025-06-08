@@ -5,7 +5,7 @@ This project focuses on accurately forecasting hourly household energy consumpti
 To build and compare machine learning models that can predict future energy usage based on historical patterns and time-based features, enabling better planning and automation for smart homes and power distribution systems.
 
 -->Models Implemented
-Linear Regression (Baseline) and Random Forest Regressor (Final Model)
+Linear Regression (Baseline) and Random Forest Regressor (Final Model).
 
 --> Dataset
 Source: UCI Machine Learning Repository – Individual Household Electric Power Consumption Dataset
