@@ -33,14 +33,14 @@ Random Forest outperforms Linear Regression, particularly in capturing fluctuati
 Visualizations confirm high alignment between predicted and actual values, especially over short-term windows.
 
 -->Deployment Potential
-# Integration into smart home systems for energy monitoring and automation
-## City-wide energy demand forecasting for grid balancing
-## Power usage alert systems for anomaly detection
+-- Integration into smart home systems for energy monitoring and automation
+--  City-wide energy demand forecasting for grid balancing
+-- Power usage alert systems for anomaly detection
 
 -->Future Scope
-## Incorporate external data: weather, occupancy, appliance-level usage
-## Apply deep learning models like LSTM or GRU for longer-term forecasting
-## Develop real-time dashboards or APIs for smart energy applications
+-- Incorporate external data: weather, occupancy, appliance-level usage
+-- Apply deep learning models like LSTM or GRU for longer-term forecasting
+-- Develop real-time dashboards or APIs for smart energy applications
 
 
 
